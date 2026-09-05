@@ -171,8 +171,8 @@ _None provided_
 | Field | Value |
 |-------|-------|
 | Hermes Run ID | discovery |
-| Payload Hash | c51f4e46b910ce69f2b98610f7c50ff8427fc5492f8e2485d0e2df2e0787779f |
+| Payload Hash | c69a0bb29a61336ebbd812051de05a975c257f1b08efcd1e9f422d9f8e3ee154 |
 | Source Path | /home/hermes/workspace/takeover-supervisor |
-| Published At | 2026-09-03T10:45:17Z |
+| Published At | 2026-09-05T10:45:48Z |
 | Kind | project |
 | Destination | existing_repo |
